@@ -4,13 +4,13 @@ body {
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.5;
-    background-color: lightseagreen;
+    background-color: rgb(214, 214, 214);
     color: white;
   }
   
   h1 {
     text-align: center;
-    color: darkslategrey;
+    color: rgb(0, 0, 0);
   }
   
   .container {
@@ -21,6 +21,7 @@ body {
     margin-right: auto;
     background-color: white;
     padding: 30px;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2);
   }
   
   .search {
